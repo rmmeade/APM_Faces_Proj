@@ -2,6 +2,8 @@
 
 #### Examining bias in VGG-Face through the lens of age and gender prediction to encourage the development of fair, accountable, and transparent machine learning.
 
+![AI](artificial-intelligence-2167835_1920.jpg)
+
 The initial approach focuses in predicting the age and gender of people based on their facial images, with the goal of implementing real-time image classification for deployment in retail locations. 
 
 While some stores already use visual recognition for theft control. The business implication of this could be facial recognition to enhance store loyalty programs or for customization of services. A Forbes article points out that loyalty members have generally already agreed to share personal data with the brand, so enhancement of loyalty programs through facial recognition may not be far in the future.
