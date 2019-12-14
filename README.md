@@ -10,6 +10,8 @@ While some stores already use visual recognition for theft control. The business
 
 With its burgeoning ubiquity, it is important to understand this technology, so the inner workings of image detection and classification are explored by building a convolutional neural net capable of predicting a person’s age and gender from his or her image. With the use of transfer learning, a model trained with a large image set can be re-trained with a dataset of photos of people "in-the-wild", which are more suited for the interests of the project. Then using predictions from the model, a further examination of any bias the model might have is made. Although the findings may not be perfectly representative of the models being used in commercial deployment today, this project aims to shed light on bias in machine learning and to highlight the importance of thoughtful development of fair, accountable, and transparent machine learning.
 
+[Click here to read more about this project](https://medium.com/@rachel.meade/bias-in-machine-learning-how-facial-recognition-models-show-signs-of-racism-sexism-and-ageism-32549e2c972d)
+
 ## Usage
 The Apparent_Age_Prediction_UTK python notebook is used for model re-training and for apparent age prediction and csv creation, as input to the Correction_Model notebook which processes the model output bias based on age, gender and race. The Gender Prediction UTK notebook predicts gender based on images.
 
